@@ -6,8 +6,8 @@
 ---
 
 ### 👩‍💻 About Me
-- 🌱 I’m currently learning **Java, DSA, and Full-Stack Development**
-- 💡 Interested in **APIs, Backend & Cloud**
+- 🌱 I’m currently learning **Full-Stack Development**
+- 💡 Interested in **APIs, Backend**
 - ⚡ Fun fact: I love exploring tech with creativity 🎨
 
 ---
